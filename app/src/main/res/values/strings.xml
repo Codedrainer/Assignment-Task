@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="startText">Start Invoid SDK</string>
+    <string name="descText">After uploading PDF from Invoid SDK you will get success response here as a
+        response from SDK</string>
+    <string name="respText">Your have successfully uploaded PDF</string>
+</resources>
